@@ -7,7 +7,7 @@
 
 2. Open command prompt and 'cd' to that directory (or hold shift and right-c lick the folder and click "Open command prompt here")  
 
-3. Make a backup of d000.bin (optional, but recommended)
+3. Make a backup of d000.bin (this is absolutely necessary **if you plan on using updated patches in the future**, since you need to re-patch the original file.)
 
 4. Type "bspatch d000.bin d000.bin translation.patch" (without the quotes)
 
